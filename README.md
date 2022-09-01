@@ -6,7 +6,7 @@ Ok, donc
 
 
 ## **Un "launchpad" géant**<hr>
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://m.media-amazon.com/images/I/81W2-6gvkqL._AC_SX425_.jpg) "Logo Title Text 1")
 
 Projeté sur le sol.
 
