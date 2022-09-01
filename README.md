@@ -9,7 +9,7 @@ Ok, donc
 Reference-style: 
 ![alt text][logo]
 
-[logo]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://m.media-amazon.com/images/I/81W2-6gvkqL._AC_SX425_.jpg) "Logo Title Text 2"
+[logo]: (https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://m.media-amazon.com/images/I/81W2-6gvkqL._AC_SX425_.jpg) "Logo Title Text 2"
 
 Projeté sur le sol.
 
