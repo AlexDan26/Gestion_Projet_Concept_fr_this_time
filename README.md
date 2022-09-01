@@ -10,7 +10,6 @@ Ok, donc
 
 Projeté sur le sol.
 
-Quand une personne marche sur une touche du launchpad, la couleur de la touche change (Celle l'environnement aussi?) et un sample de musique joue dans la pièce.
-Le launchpad peut prendre que 5 personne. 
+Quand une personne marche sur une touche du launchpad, la couleur de la touche change (Celle l'environnement aussi?) et un sample de musique joue dans la pièce. 
 <hr>
-Il y a 3 types de touches: Le rythme, la basse et les samples de mélodie. 
+Il y a 3 types de touches: Le rythme, la basse et les samples de mélodie. L'installation sera équipé d'un détecteur (dans le style Kinect), plusieurs projecteurs qui seront séparés selon les types de touches et des haut-parleurs pour la musique. Évidemment.
