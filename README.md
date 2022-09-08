@@ -19,3 +19,6 @@ Les couleurs chageront selon le rythme de la musique.<hr>
 
 
 ## **Bio-punk?**<hr>
+ Peut-être une projection d'un visage?
+Le visage est normal au début, mais change qauand on appuie sur les boutons.
+Quand on appuie sur un bouton du launchpad, il y a un effet de Rayon qui se produit par exemple. Ou la projection se déforme, commence à muté etc.
