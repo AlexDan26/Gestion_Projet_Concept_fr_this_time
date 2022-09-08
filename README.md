@@ -23,6 +23,6 @@ Les couleurs chageront selon le rythme de la musique.<hr>
 Le visage est normal au début, mais change qauand on appuie sur les boutons.
 Quand on appuie sur un bouton du launchpad, il y a un effet de Rayon qui se produit par exemple. Ou la projection se déforme, commence à muté etc.<hr>
 Exemples: <hr>
-![alt text](https://m.media-amazon.com/images/I/81W2-6gvkqL._AC_SX425_.jpg "Projection 1")<hr>
+![alt text](http://daito.ws/wp/wp-content/uploads/fa_magazine/02.jpg "Projection 1")<hr>
 ![alt text](https://www.futurity.org/wp/wp-content/uploads/2019/10/woman-face-and-wall-projection.jpg "Projection 2")<hr>
-![alt text](http://daito.ws/wp/wp-content/uploads/fa_magazine/02.jpg "Projection 3")
+![alt text](http://www.vision.ict.e.titech.ac.jp/projects/faceDPM/FaceDPM_04.jpg "Projection 3")
